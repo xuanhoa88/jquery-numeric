@@ -1,6 +1,6 @@
 {
   "name": "llama-jquery-numeric",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "XuaNguyen <xuan.0211@gmail.com>",
   "main": "./src/jquery.numeric.js",
   "description": "jQuery numeric plugin.",
